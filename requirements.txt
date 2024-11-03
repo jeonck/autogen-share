@@ -7,3 +7,4 @@ pypdf>=3.17.0
 tiktoken>=0.5.2
 feedparser>=6.0.10
 pandas>=1.5.3
+googletrans==4.0.0-rc1
